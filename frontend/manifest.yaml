@@ -41,3 +41,4 @@ spec:
   - protocol: TCP
     port: 80 # service port
     targetPort: 80
+    nodePort: 80003

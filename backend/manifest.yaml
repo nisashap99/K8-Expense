@@ -8,7 +8,7 @@ metadata:
     tier: backend
     project: expense
 spec:
-  replicas: 0
+  replicas: 1
   selector:
     matchLabels:
       app: backend

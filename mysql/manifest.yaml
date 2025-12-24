@@ -24,6 +24,8 @@ spec:
       containers:
       - name: nginx
         image: nisashap99/expense-mysql:1.0.0
+
+---
         
 kind: Service
 apiVersion: v1
